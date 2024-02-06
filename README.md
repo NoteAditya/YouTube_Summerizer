@@ -1,2 +1,2 @@
 # YouTube_Summerizer
-Google-pro Youtube summerizer code
+Google Gemini pro Youtube summerizer code
